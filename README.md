@@ -8,7 +8,7 @@ Install CLI Tools is a curated, standardized collection of installation guides f
 
 Browse the full documentation at:
 
-<p align="left"> <a href="https://bakuppus.github.io/cli-on-page/"><b>🌐 Visit Documentation Website</b></a> • 
+<p align="left"> <a href="https://bakuppus.github.io/cli-on-one/"><b>🌐 Visit Documentation Website</b></a> • 
 
 # Maintainer
 
